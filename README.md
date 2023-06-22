@@ -2,6 +2,6 @@
 
 Welcome to my github.
 
-- 🌱 I’m currently focusing on technologies around react, react-native, node.js, and game development with C++
+- 🌱 I’m currently focusing on technologies around React-native, Native Mobile and Desktop Applications, React,js, Node.js and Next.js
 
 - 📫 All my links: https://www.mattweb.dev/links
